@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FileImageUploadRetrieveDemoCoreMVC6.props" />
+</Project>
