@@ -1,0 +1,1 @@
+# FileImageUploadRetrieveDemoCoreMVC6
